@@ -11,3 +11,6 @@ adfad
 
    \frac{ \sum_{t=0}^{N}f(t,k) }{N}
 
+dadfad
+dafjd
+haf nooij hom nay co mua to
