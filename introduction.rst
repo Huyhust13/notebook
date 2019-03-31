@@ -14,3 +14,5 @@ adfad
 dadfad
 dafjd
 haf nooij hom nay co mua to
+
+Đây là tài liệu giới thiệu về ROS và quá trình nghiên cứu ứng dụng ROS để điều khiển robot Motoman
